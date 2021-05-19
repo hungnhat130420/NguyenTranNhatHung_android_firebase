@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "471120429773",
+    "project_id": "nguyentrannhathung-18036971",
+    "storage_bucket": "nguyentrannhathung-18036971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471120429773:android:5becd78c71feebfb771f84",
+        "android_client_info": {
+          "package_name": "com.example.a18036971_nguyentrannhathung_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471120429773-sh6j73alknh8dkjposb6toh6v33adddm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Y2fbRsLESj5IEvG-8IpZcWUDZl2dkN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471120429773-sh6j73alknh8dkjposb6toh6v33adddm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471120429773:android:8f3b12933fec5df2771f84",
+        "android_client_info": {
+          "package_name": "com.example.a18036971_nguyentrannhathung_thfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471120429773-sh6j73alknh8dkjposb6toh6v33adddm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Y2fbRsLESj5IEvG-8IpZcWUDZl2dkN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471120429773-sh6j73alknh8dkjposb6toh6v33adddm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
